@@ -1,0 +1,10 @@
+[package]
+name = "chess-rust"
+version = "0.1.0"
+authors = ["Alex Epp <aepp2@ualberta.ca>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+impl_ops = "0.1.1"
